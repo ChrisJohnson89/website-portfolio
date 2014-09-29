@@ -119,7 +119,7 @@ PAGE PORTFOLIO
   float: left;
   width: 45%;
   margin: 2.5%;
-  background-color: #6ab47b;
+  background-color: #336E7B;
   color: #bdc3c7;
 }
 
@@ -182,19 +182,20 @@ COLORS
 
 /* Site Body */
 body {
-  background-color: #abd5b6;
+  background-color: #89C4F4;
+  /* Text */
   color: #070808;
 }
 
-/* green header */
+/* blue header */
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background: #3498DB;
+  border-color: #4183D7;
 }
 
 /* nav background on mobile */
 nav {
-  background: #599a68
+  background: #3A539B
 }
 
 /* logo text */
@@ -204,7 +205,7 @@ h1, h2 {
 
 /* links */
 a {
-  color: #5e6e62;
+  color: #663399;
 }
 
 /* nav link */
@@ -214,7 +215,7 @@ nav a, nav a:visited {
 
 /* selected nav link color */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #22313F;
 }
 
 
